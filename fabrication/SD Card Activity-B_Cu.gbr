@@ -1,0 +1,58 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2023-06-12T23:03:10-04:00*%
+%TF.ProjectId,SD Card Activity,53442043-6172-4642-9041-637469766974,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-06-12 23:03:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.700000X1.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J2,1,Pin_1*%
+%TO.N,/ACT_LED_NEG*%
+X157620000Y-73150000D03*
+D11*
+%TO.P,J2,2,Pin_2*%
+%TO.N,Net-(J2-Pin_2)*%
+X157620000Y-75690000D03*
+%TD*%
+%TO.P,J4,3,Pin_3*%
+%TO.N,VCC*%
+X146855000Y-62775000D03*
+%TO.P,J4,2,Pin_2*%
+%TO.N,/3.3V*%
+X144315000Y-62775000D03*
+D10*
+%TO.P,J4,1,Pin_1*%
+%TO.N,GND*%
+X141775000Y-62775000D03*
+%TD*%
+%TO.P,J3,1,Pin_1*%
+%TO.N,GND*%
+X157600000Y-63860000D03*
+D11*
+%TO.P,J3,2,Pin_2*%
+%TO.N,VCC*%
+X157600000Y-66400000D03*
+%TD*%
+D10*
+%TO.P,J1,1,Pin_1*%
+%TO.N,GND*%
+X137922000Y-68072000D03*
+D11*
+%TO.P,J1,2,Pin_2*%
+%TO.N,/SD_CMD*%
+X137922000Y-70612000D03*
+%TD*%
+M02*

@@ -10,3 +10,6 @@ Components
 - R2:	330	SMD 0805
 - U1:	[74LVC1G04](https://www.ti.com/product/SN74LVC1G04)
 - Conn_LDO: AMS1117-3.3V Buck Module LDO
+
+![Schematic](SD Card Activity - Schematic.png)
+![PCB](SD Card Activity - PCB.png)
